@@ -4,6 +4,7 @@ I have built a shortcut application to gemini assistant to be able to use with d
 
 
 **Note:Google is required.** 
+
 The application may ask to reset the default assistant application every time the device is restarted. Implementation process: set the default assistant application back to None and select Google again => Done
 
 **FOR ROOT USERS**
