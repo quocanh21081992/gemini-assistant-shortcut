@@ -1,6 +1,6 @@
 Hello everyone.
 
-I have built a shortcut application to gemini assistant to be able to use with devices using Color OS CN (Rooted).
+I have built a shortcut application to gemini assistant to be able to use with devices using Color OS CN.
 The steps are as follows:
 
 **FOR ROOT USERS**
