@@ -20,5 +20,5 @@ Step 3: Set any gesture you find reasonable to activate gemini assistant to open
 
 **FOR NON-ROOT USERS**
 
-You can use the Smart Sidebar feature to open apps.
+You can install normaly then use the Smart Sidebar feature to open apps.
 
