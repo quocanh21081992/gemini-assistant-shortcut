@@ -3,7 +3,7 @@ Hello everyone.
 I have built a shortcut application to gemini assistant to be able to use with devices using Color OS CN. Everyone can test this app with china OS (HyperOS, Magic OS, Origin OS).
 
 
-**Note:Google is required.** 
+**Note: Google is required.** 
 
 The application may ask to reset the default assistant application every time the device is restarted. Implementation process: set the default assistant application back to None and select Google again => Done
 
