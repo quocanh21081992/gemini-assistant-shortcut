@@ -2,7 +2,7 @@ Hello everyone.
 
 I have built a shortcut application to gemini assistant to be able to use with devices using Color OS CN. Everyone can test this app with china OS (HyperOS, Magic OS, Origin OS).
 
-Required: Google
+Google is required.
 
 **FOR ROOT USERS**
 
