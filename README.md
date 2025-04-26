@@ -13,6 +13,6 @@ Step 3: assign any gesture you find reasonable to activate gemini assistant to o
 
 Note: The application may ask to reset the default assistant application every time the device is restarted. Implementation process: set the default assistant application back to None and select Google again => Done
 
-**FOR NON-ROOT USER **
+**FOR NON-ROOT USERS**
 
 You can use the smart sidebar feature and add apps to it.
