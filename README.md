@@ -17,5 +17,5 @@ Step 3: Set any gesture you find reasonable to activate gemini assistant to open
 
 You can use the Smart Sidebar feature to open apps.
 
-**Note** 
+**Note:** 
 The application may ask to reset the default assistant application every time the device is restarted. Implementation process: set the default assistant application back to None and select Google again => Done
