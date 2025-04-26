@@ -9,7 +9,7 @@ Step 1: install the Trigger Gemini application I have built (works similar to Mi
 
 Step 2: Install Xposed Edge and active Xposed Edge in Lsposed
 
-Step 3: assign any gesture you find reasonable to activate gemini assistant to open the Trigger Gemini application just installed.
+Step 3: Set any gesture you find reasonable to activate gemini assistant to open the Trigger Gemini application just installed.
 
 **FOR NON-ROOT USERS**
 
