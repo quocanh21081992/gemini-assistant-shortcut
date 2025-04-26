@@ -5,7 +5,7 @@ The steps are as follows:
 
 **FOR ROOT USERS**
 
-Step 1: install the Gemini Trigger application I have built (works similar to MiCTS, the application will trigger voice command of the Google application)
+Step 1: install the Trigger Gemini application I have built (works similar to MiCTS, the application will trigger voice command of the Google application)
 
 Step 2: Install Xposed Edge. Xposed edge can be found on the group and activated in lsposed (I am installing hold the bottom edge to launch MiCTS, press the bottom edge twice to open Gemini assistant)
 
