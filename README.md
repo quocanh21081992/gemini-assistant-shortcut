@@ -11,7 +11,7 @@ The application may ask to reset the default assistant application every time th
 
 The steps are as follows:
 
-Step 1: install the Trigger Gemini application I have built (works similar to MiCTS, the application will trigger voice command of the Google application)
+Step 1: install the Trigger Gemini
 
 Step 2: Install Xposed Edge and active Xposed Edge in Lsposed
 
