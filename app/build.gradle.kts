@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace = "com.trigger.geminiassistant"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.trigger.geminiassistant"
         minSdk = 26
-        targetSdk = 34
-        versionCode = 1
-        versionName = "1.1"
+        targetSdk = 35
+        versionCode = 20250428
+        versionName = "1.2"
     }
 
     buildTypes {
@@ -32,6 +32,6 @@ android {
 }
 
 dependencies {
-    implementation("androidx.core:core-ktx:1.13.1")
-    implementation("com.google.android.material:material:1.11.0")
+    implementation(libs.androidx.core.ktx)
+    implementation(libs.material)
 }

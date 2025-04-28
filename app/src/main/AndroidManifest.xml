@@ -1,6 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.trigger.geminiassistant">
 
+    <queries>
+        <package android:name="com.google.android.googlequicksearchbox" />
+        <package android:name="com.google.android.apps.bard" />
+
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="market" /> </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="https" android:host="play.google.com" /> </intent>
+        <intent>
+            <action android:name="android.intent.action.VOICE_COMMAND" />
+        </intent>
+    </queries>
     <application
         android:label="Trigger Gemini"
         android:icon="@mipmap/ic_launcher">
@@ -14,7 +30,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
 
     </application>
 
