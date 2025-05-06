@@ -5,7 +5,7 @@ I have built a shortcut application to gemini assistant to be able to use with d
 
 **Note: Google and Gemini is required.** 
 
-The application may ask to reset the default assistant application every time the device is restarted. Implementation process: set the default assistant application back to None and select Google again => Done
+The application may ask to reset the default assistant application every time the device is restarted. Guide: set the default assistant application back to None and select Google again => Done
 
 You can install normally then use the Smart Sidebar feature to open apps.
 
